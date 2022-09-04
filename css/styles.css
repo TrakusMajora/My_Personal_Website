@@ -41,12 +41,12 @@ p {
 
 .first-cloud {
   position: relative;
-  left: 250px;
+  left: 300px;
 }
 
 .second-cloud {
   position: absolute;
-  right: 50px;
+  left: 200px;
 }
 
 .mountain {
@@ -60,6 +60,8 @@ p {
 }
 
 .profile {
+  width: 50%;
+  max-width: 700px;
   padding-top: 30px;
   margin: auto;
 }
@@ -70,8 +72,6 @@ p {
 }
 
 .intro {
-  width: 30%;
-  margin: auto;
 }
 
 .middle-container {
@@ -80,8 +80,12 @@ p {
 
 .skill-row {
   width: 50%;
+  max-width: 700px;
   margin: 30px auto 100px;
   text-align: left;
+}
+
+.skill-row>p {
 }
 
 .programming-image {
@@ -111,12 +115,13 @@ p {
 }
 
 .contact-me {
+  width: 50%;
+  max-width: 700px;
   padding: 50px;
+  margin: auto;
 }
 
 .contact-me>p {
-  width: 30%;
-  margin: 30px auto 40px;
 }
 
 .bottom-container {
