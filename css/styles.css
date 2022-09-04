@@ -46,7 +46,7 @@ p {
 
 .second-cloud {
   position: absolute;
-  left: 200px;
+  left: 20%;
 }
 
 .mountain {
@@ -71,9 +71,6 @@ p {
   margin: 30px auto 40px;
 }
 
-.intro {
-}
-
 .middle-container {
   background-color: #FBF8F1;
 }
@@ -83,9 +80,6 @@ p {
   max-width: 700px;
   margin: 30px auto 100px;
   text-align: left;
-}
-
-.skill-row>p {
 }
 
 .programming-image {
@@ -117,11 +111,7 @@ p {
 .contact-me {
   width: 50%;
   max-width: 700px;
-  padding: 50px;
-  margin: auto;
-}
-
-.contact-me>p {
+  margin: 50px auto;
 }
 
 .bottom-container {
